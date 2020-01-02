@@ -1,0 +1,11 @@
+C:\Users\samuel.camilo\Github\example-client\Example.Client\src\Example.Client.App\bin\Debug\netcoreapp2.2\Example.Client.App.deps.json
+C:\Users\samuel.camilo\Github\example-client\Example.Client\src\Example.Client.App\bin\Debug\netcoreapp2.2\Example.Client.App.runtimeconfig.json
+C:\Users\samuel.camilo\Github\example-client\Example.Client\src\Example.Client.App\bin\Debug\netcoreapp2.2\Example.Client.App.runtimeconfig.dev.json
+C:\Users\samuel.camilo\Github\example-client\Example.Client\src\Example.Client.App\bin\Debug\netcoreapp2.2\Example.Client.App.dll
+C:\Users\samuel.camilo\Github\example-client\Example.Client\src\Example.Client.App\bin\Debug\netcoreapp2.2\Example.Client.App.pdb
+C:\Users\samuel.camilo\Github\example-client\Example.Client\src\Example.Client.App\obj\Debug\netcoreapp2.2\Example.Client.App.csprojAssemblyReference.cache
+C:\Users\samuel.camilo\Github\example-client\Example.Client\src\Example.Client.App\obj\Debug\netcoreapp2.2\Example.Client.App.csproj.CoreCompileInputs.cache
+C:\Users\samuel.camilo\Github\example-client\Example.Client\src\Example.Client.App\obj\Debug\netcoreapp2.2\Example.Client.App.AssemblyInfoInputs.cache
+C:\Users\samuel.camilo\Github\example-client\Example.Client\src\Example.Client.App\obj\Debug\netcoreapp2.2\Example.Client.App.AssemblyInfo.cs
+C:\Users\samuel.camilo\Github\example-client\Example.Client\src\Example.Client.App\obj\Debug\netcoreapp2.2\Example.Client.App.dll
+C:\Users\samuel.camilo\Github\example-client\Example.Client\src\Example.Client.App\obj\Debug\netcoreapp2.2\Example.Client.App.pdb
